@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.quangviet.testdeployrender.TestDeployRenderApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.024 s - in com.quangviet.testdeployrender.TestDeployRenderApplicationTests
